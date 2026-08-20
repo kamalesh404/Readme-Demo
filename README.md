@@ -1,176 +1,178 @@
-# Kamalesh — README Demo (Upgraded)
-
-Welcome — this repository is a polished README template and demo you can reuse for your personal profile or for project READMEs. It keeps the visual flair from the original while fixing links, making the content easy to customize, and adding a Deno quick-start example for repository-specific READMEs.
-
-> NOTE: Replace all `YOUR-*` placeholders and `kamalesh404` username occurrences with the final values you want before publishing.
-
----
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="520" alt="coding">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="520" alt="Coding animation" />
 
-<h1 style="font-size:40px; margin-top: 0">Hey, I'm Kamalesh 👋</h1>
+# Hey, I'm Kamalesh 👋
 
-<p><em>Software engineer — web, backend, automation. I turn ideas into code.</em></p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=Computer+Science+%7C+AI+%7C+Full-Stack;Building+apps%2C+AI+tools+%26+creative+projects;Always+learning.+Always+building.+Always+shipping." alt="Typing animation" />
 
 <p>
-<a href="https://deno.land" title="Deno"><img src="https://img.shields.io/badge/deno-%20v1.x-41A5A3?style=flat-square&logo=deno" alt="Deno"/></a>
-<a href="https://github.com/kamalesh404/Readme-Demo/actions" title="build"><img src="https://img.shields.io/github/actions/workflow/status/kamalesh404/Readme-Demo/ci.yml?branch=main&style=flat-square" alt="build status"/></a>
-<a href="LICENSE" title="License"><img src="https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square" alt="license"/></a>
+  <a href="https://github.com/kamalesh404"><img src="https://img.shields.io/badge/GitHub-kamalesh404-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=kamalesh404&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/kamalesh404?style=for-the-badge&label=FOLLOWERS" alt="Followers" />
 </p>
 
 </div>
 
 ---
 
-## About
+## 🧑‍💻 About Me
 
-This repo demonstrates a clean, easy-to-customize README for both GitHub profile and project repositories. Use this as:
+I'm a **Computer Science student and developer** who enjoys turning ideas into real, usable products.
 
-- A base for your GitHub profile README (rename/copy contents into your profile repo `kamalesh404/kamalesh404` README), or
-- A polished README for any Deno or Node project.
+- 🤖 Exploring **AI/ML, LLMs, computer vision and generative AI**
+- 📱 Building **Flutter apps** and cross-platform experiences
+- 🌐 Developing **web apps, APIs and automation tools**
+- 🎮 Experimenting with **game development and Unreal Engine**
+- 📸 Interested in **photography, video editing, drones and creative tech**
+- 🚀 I like taking an idea from **concept → prototype → working product**
 
-What I changed in this upgrade:
-- Fixed inconsistent username references and badge links
-- Simplified heavy inline styles so the README renders consistently
-- Added a Deno Quick Start & recommended tasks
-- Included clear customization instructions and placeholders
-
----
-
-## Quick customization checklist
-
-- Update the username: `kamalesh404` (search & replace `kamalesh404` in the file if copying)
-- Replace `YOUR-LINKEDIN`, `YOUR-EMAIL@example.com`, `YOUR-TWITTER` etc.
-- Add or remove tech badges from the `Tech` section
-- Add project pins in the `Projects` section (copy the GitHub-pinned card format)
+> **Build it. Break it. Learn it. Ship it.**
 
 ---
 
-## Tech Arsenal
+## ⚡ What I'm Working With
 
-A compact badge row you can edit. Keep only the technologies you actually use.
+### Languages
 
-<p align="center">
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Deno-41A5A3?style=for-the-badge&logo=deno&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/Diffusers-111827?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TinyML-6E40C9?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
+### Development
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black" />
+<img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
-## Projects (Pin cards)
+## 🚀 Featured Projects
 
-Add pinned project cards using the GitHub-readme-stats `pin` card format:
+<div align="center">
 
-```md
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kamalesh404&repo=Readme-Demo&theme=tokyonight&hide_border=true)](https://github.com/kamalesh404/Readme-Demo)
-```
+<a href="https://github.com/kamalesh404/aiapp">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kamalesh404&repo=aiapp&theme=tokyonight&hide_border=true" alt="AI App" />
+</a>
+<a href="https://github.com/kamalesh404/pc_auto">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kamalesh404&repo=pc_auto&theme=tokyonight&hide_border=true" alt="PC Auto" />
+</a>
+<a href="https://github.com/kamalesh404/Readme-Demo">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kamalesh404&repo=Readme-Demo&theme=tokyonight&hide_border=true" alt="README Demo" />
+</a>
 
-Duplicate the card for each repo you want to pin and change the `repo=` value.
-
----
-
-## Deno Quick Start (for project READMEs)
-
-If this README is used in a Deno project, add this quick-start snippet so contributors can run the project securely.
-
-Prerequisites
-- Deno (install from https://deno.land)
-
-Run locally
-
-```bash
-git clone https://github.com/kamalesh404/<repo>.git
-cd <repo>
-# run with only required permissions
-deno run --allow-net --allow-read mod.ts
-# or if you use tasks in deno.json / deno.jsonc
-deno task start
-```
-
-Recommended dev commands
-
-```bash
-deno test
-deno fmt
-deno lint
-deno check
-```
-
-If using an import map:
-
-```bash
-deno run --import-map=import_map.json --allow-net mod.ts
-```
+</div>
 
 ---
 
-## Permissions & Security
+## 📊 GitHub Analytics
 
-Always prefer the least-privilege permission set when running Deno. Example rationale:
-- --allow-net — required for network API usage
-- --allow-read — needed to read config or templates
-- --allow-env — read environment variables
+<div align="center">
 
-Avoid `--allow-all` in docs unless unavoidable.
+<img src="https://github-readme-stats.vercel.app/api?username=kamalesh404&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalesh404&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top languages" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=kamalesh404&theme=tokyonight&hide_border=true" width="70%" alt="GitHub streak" />
+
+</div>
 
 ---
 
-## GitHub Actions / CI suggestion
+## 📈 Contribution Activity
 
-Add a simple workflow to run lint, fmt-check and tests on push/PR. Example `.github/workflows/ci.yml` (short):
+<div align="center">
 
-```yaml
-name: CI
-on: [push, pull_request]
-jobs:
-  test:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Setup Deno
-        uses: denoland/setup-deno@v1
-        with:
-          deno-version: v1
-      - name: Lint
-        run: deno lint
-      - name: Format check
-        run: deno fmt --check
-      - name: Test
-        run: deno test
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalesh404&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="GitHub contribution activity graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamalesh404/Readme-Demo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamalesh404/Readme-Demo/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/kamalesh404/Readme-Demo/output/github-contribution-grid-snake.svg" width="95%" />
+</picture>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+AI & Generative AI       ███████████████████░   90%
+Full-Stack Development   █████████████████░░░   85%
+Flutter / Mobile         ████████████████░░░░   80%
+Backend & APIs           ███████████████░░░░░   75%
+Game Development         ████████████░░░░░░░░   60%
 ```
 
 ---
 
-## Connect
+## 💡 Developer Philosophy
 
-<p align="center">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-</p>
+> **Don't just learn technology — build something with it.**
+
+I enjoy experimenting with new frameworks, connecting different technologies, building prototypes quickly, and turning those experiments into projects that people can actually use.
 
 ---
 
-## How to use this repo
+## 🤝 Let's Connect
 
-- Copy this README into your profile repo `kamalesh404/kamalesh404` to use the profile layout.
-- Or adapt sections into any project README — keep Deno Quick Start for Deno projects and remove it for non-Deno repos.
+<div align="center">
 
----
+<a href="https://github.com/kamalesh404">
+<img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
 
-## License
+<br><br>
 
-This demo README is MIT licensed. See the `LICENSE` file for details.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer" />
 
----
+</div>
 
-If you want, I can:
-- Add a ready-to-use `.github/workflows/ci.yml` for Deno (I can create the file),
-- Replace placeholder social links with your real links,
-- Add pinned project cards for selected repos automatically.
-
-Tell me which of the follow-ups to apply and I'll commit them next.
+<!--
+This README is designed as a profile-ready showcase.
+For the contribution snake, keep .github/workflows/snake.yml enabled.
+-->
