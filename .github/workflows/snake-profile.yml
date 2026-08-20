@@ -1,0 +1,35 @@
+name: Generate Profile Snake
+
+on:
+  schedule:
+    - cron: "15 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate profile snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: kamalesh404
+          outputs: |
+            dist/kamalesh-contribution-snake.svg
+            dist/kamalesh-contribution-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish profile snake
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: update profile contribution snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
