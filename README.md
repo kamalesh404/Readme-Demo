@@ -1,4 +1,6 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066CC,100:00CED1&height=200&section=header" width="100%"
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:8B0000&height=200&section=header&text=KAMALESH%20KUMAR&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Game%20Dev%20%7C%20AI%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 </p>
 
@@ -360,4 +362,6 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF4500&height=120&section=footer" width="100%"/>
+</p>
+/>
 </p>
