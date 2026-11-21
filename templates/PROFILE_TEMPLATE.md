@@ -88,8 +88,8 @@
 
 <!-- Optional Snake Animation (generated via GitHub Actions) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{{YOUR_GITHUB_USERNAME}}/{{YOUR_GITHUB_USERNAME}}/output/kamalesh-contribution-snake-dark.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/{{YOUR_GITHUB_USERNAME}}/{{YOUR_GITHUB_USERNAME}}/output/kamalesh-contribution-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{{YOUR_GITHUB_USERNAME}}/{{YOUR_GITHUB_USERNAME}}/output/{{YOUR_GITHUB_USERNAME}}-contribution-snake-dark.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/{{YOUR_GITHUB_USERNAME}}/{{YOUR_GITHUB_USERNAME}}/output/{{YOUR_GITHUB_USERNAME}}-contribution-snake.svg" width="100%" />
 </picture>
 
 </div>

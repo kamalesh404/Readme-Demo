@@ -18,10 +18,10 @@ jobs:
       - name: Generate profile snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: kamalesh404
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/kamalesh-contribution-snake.svg
-            dist/kamalesh-contribution-snake-dark.svg?palette=github-dark
+            dist/${{ github.repository_owner }}-contribution-snake.svg
+            dist/${{ github.repository_owner }}-contribution-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
