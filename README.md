@@ -22,6 +22,7 @@
 
 Included inside this repository are ready-to-use template files:
 - 📄 [`templates/PROFILE_TEMPLATE.md`](templates/PROFILE_TEMPLATE.md) — Production developer profile README with dynamic typing, responsive project tables, skill icons, and live statistics.
+- 📁 [`templates/PROJECT_TEMPLATE.md`](templates/PROJECT_TEMPLATE.md) — Reusable project README for features, setup, usage, roadmap, and contribution guidance.
 - ⚙️ [`.github/workflows/snake-profile.yml`](.github/workflows/snake-profile.yml) — Automated GitHub Action to generate and publish an animated GitHub contribution snake SVG.
 
 ---
@@ -41,7 +42,13 @@ Follow this simple 5-step checklist to adapt this template for your own GitHub p
    - `{{YOUR_GITHUB_USERNAME}}` → Your GitHub account handle
    - `{{YOUR_NAME}}` → Your display name
    - `{{YOUR_TITLE}}` → Primary specialization (e.g. `AI/ML Engineer | Distributed Systems`)
-   - `{{YOUR_PROJECTS}}` → Your top flagship repositories
+   - `{{ROLE_1}}`, `{{ROLE_2}}`, `{{ROLE_3}}` → Short professional role tags
+   - `{{YOUR_LINKEDIN_SLUG}}` → Your LinkedIn profile slug
+   - `{{PROJECT_NAME}}`, `{{DOMAIN_OR_TOPIC}}`, `{{YOUR_SPECIALTIES}}`, `{{YOUR_FUN_FACT}}` → Personal profile details
+   - `{{PROJECT_1_NAME}}` and `{{PROJECT_2_NAME}}` → Your featured repository names
+   - `{{PROJECT_1_REPO}}` and `{{PROJECT_2_REPO}}` → Your featured repository slugs
+   - `{{PROJECT_1_DESCRIPTION}}` and `{{PROJECT_2_DESCRIPTION}}` → Concise project summaries
+   - `{{TAG_1}}`, `{{TAG_2}}`, `{{TAG_3}}` → Technology labels
 
 4. **Enable Actions Workflow (Optional):**  
    Copy [`.github/workflows/snake-profile.yml`](.github/workflows/snake-profile.yml) into your profile repository under `.github/workflows/`.  
@@ -106,8 +113,8 @@ Uses the CDN-hosted [SkillIcons](https://skillicons.dev/) service to render clea
 The included workflow [`.github/workflows/snake-profile.yml`](.github/workflows/snake-profile.yml) runs every 12 hours via GitHub Actions:
 - Ingests your real public GitHub contribution graph.
 - Generates light and dark theme animated SVGs:
-  - `dist/kamalesh-contribution-snake.svg`
-  - `dist/kamalesh-contribution-snake-dark.svg`
+  - `dist/{{YOUR_GITHUB_USERNAME}}-contribution-snake.svg`
+  - `dist/{{YOUR_GITHUB_USERNAME}}-contribution-snake-dark.svg`
 - Commits them automatically to an orphan branch named `output`, ready to embed seamlessly into any Markdown document via raw GitHub user content links.
 
 ---
